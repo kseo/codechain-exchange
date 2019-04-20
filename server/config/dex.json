@@ -1,0 +1,25 @@
+{
+  "dex-asset-address": "",
+  "dex-platform-address": "",
+  "dex-passphrase": "",
+  "fee-rate": ,
+  "fee-asset-type": "",
+  "market": {
+    "testMarket": {
+      "id": 0,
+      "asset1": "0x",
+      "asset2": "0x"
+    }
+  },
+  "node": {
+    "production": {
+      "rpc": "https://rpc.codechain.io/"
+    },
+    "test": {
+      "rpc": "https://corgi-rpc.codechain.io"
+    },
+    "development": {
+      "rpc": "http://127.0.0.1:8080"
+    }
+  }
+}
