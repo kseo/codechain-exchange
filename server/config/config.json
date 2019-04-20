@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "dev",
+    "password": "1234",
+    "database": "testdb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "test",
+    "password": "1234",
+    "database": "exchange-test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "codechain-exchange",
+    "password": "1234",
+    "database": "exchange-main",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
